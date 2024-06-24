@@ -1,0 +1,8 @@
+pandas ==2.2.2
+numpy ==2.0.0
+re ==2024.5.15
+nltk ==3.8.1
+string ==0.0.150
+statistics ==3.4.0
+tensorflow ==2.16.1
+sklearn ==1.5.0
